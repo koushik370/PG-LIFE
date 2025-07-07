@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../internshala project"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "PGLife"
+	}
+}
