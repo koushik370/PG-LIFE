@@ -88,7 +88,7 @@ Edit
 ## 🧑‍💻 Developed By
 
 **Mateti Koushik**  
-[LinkedIn](https://in.linkedin.com/in/mateti-koushik-286325305)
+LinkedIn : https://www.linkedin.com/in/Mateti-koushik-286325305
 
 ---
 
